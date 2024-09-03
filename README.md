@@ -1,0 +1,1 @@
+This project is a simple introduction to creating and running a GitHub Action with Python.
